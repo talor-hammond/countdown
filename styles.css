@@ -1,0 +1,45 @@
+body {
+    background-color: #fef7f5;
+}
+
+.container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.title {
+    text-align: center;
+    font-size: 6rem;
+}
+
+.thin {
+    font-weight: 100;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.rightColumn {
+    text-align: right;
+}
+
+.primaryInfo {
+    font-size: 3.4rem;
+}
+
+.secondaryInfo {
+    font-size: 2.5rem;
+}
+
+.tableHeadings {
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+table:hover > .hidden {
+    display: block;
+}
