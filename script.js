@@ -44,7 +44,7 @@ function eventWithDate(year, month, day, class1, class2, class3, class4) {
 window.setInterval(function(){
     /// call your function here
     eventWithDate(2019, 4, 16, "days", "hours", "minutes", "seconds");
-    eventWithDate(2018, 4, 22, "days2", "hours2", "minutes2", "seconds2");
+    eventWithDate(2018, 4, 20, "days2", "hours2", "minutes2", "seconds2");
   }, 1000);
 
 
